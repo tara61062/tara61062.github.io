@@ -2,7 +2,6 @@
 layout: post
 title:  "Which is my dream country?"
 author: basant
-categories: [ tutorial ]
 image: assets/images/17.jpg
 tags: [featured]
 ---

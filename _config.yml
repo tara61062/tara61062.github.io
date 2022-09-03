@@ -20,21 +20,14 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+      name:           Basant
+      site:           https://www.basantpandey.com
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Basant, the author of Basant.rocks, the blog you're currently previewing. I hope you like it!"
+      email:          tara61062@gmail.com
+      twitter:        https://twitter.com/tara61062
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
- 
+     
 # Defaults
 defaults:
 
@@ -43,7 +36,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: basant
       avatar: /assets/images/avatar1.jpg
       
   # all pages
